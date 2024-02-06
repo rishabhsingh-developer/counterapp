@@ -1,0 +1,26 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.one,
+.two {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 40px;
+  gap: 20px;
+}
+button {
+  height: 40px;
+  width: 70px;
+  background-color: black;
+  color: wheat;
+}
+.box {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+h3 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
